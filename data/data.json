@@ -1,0 +1,2907 @@
+[
+    {
+        "album": "The White Stripes",
+        "year": 1999,
+        "US_peak_chart_post": "-"
+    },
+    {
+        "album": "De Stijl",
+        "year": 2000,
+        "US_peak_chart_post": "-"
+    },
+    {
+        "album": "White Blood Cells",
+        "year": 2001,
+        "US_peak_chart_post": 61
+    },
+    {
+        "album": "Elephant",
+        "year": 2003,
+        "US_peak_chart_post": 6
+    },
+    {
+        "album": "Get Behind Me Satan",
+        "year": 2005,
+        "US_peak_chart_post": 3
+    },
+    {
+        "album": "Icky Thump",
+        "year": 2007,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": "Under Great White Northern Lights",
+        "year": 2010,
+        "US_peak_chart_post": 11
+    },
+    {
+        "album": "Live in Mississippi",
+        "year": 2011,
+        "US_peak_chart_post": "-"
+    },
+    {
+        "album": "Live at the Gold Dollar",
+        "year": 2012,
+        "US_peak_chart_post": "-"
+    },
+    {
+        "album": "Nine Miles from the White City",
+        "year": 2013,
+        "US_peak_chart_post": "-"
+    },
+    {
+        "album": "year",
+        "year": "age",
+        "US_peak_chart_post": "sex"
+    },
+    {
+        "album": 1850,
+        "year": 0,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1850,
+        "year": 0,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1850,
+        "year": 5,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1850,
+        "year": 5,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1850,
+        "year": 10,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1850,
+        "year": 10,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1850,
+        "year": 15,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1850,
+        "year": 15,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1850,
+        "year": 20,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1850,
+        "year": 20,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1850,
+        "year": 25,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1850,
+        "year": 25,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1850,
+        "year": 30,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1850,
+        "year": 30,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1850,
+        "year": 35,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1850,
+        "year": 35,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1850,
+        "year": 40,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1850,
+        "year": 40,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1850,
+        "year": 45,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1850,
+        "year": 45,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1850,
+        "year": 50,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1850,
+        "year": 50,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1850,
+        "year": 55,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1850,
+        "year": 55,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1850,
+        "year": 60,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1850,
+        "year": 60,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1850,
+        "year": 65,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1850,
+        "year": 65,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1850,
+        "year": 70,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1850,
+        "year": 70,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1850,
+        "year": 75,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1850,
+        "year": 75,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1850,
+        "year": 80,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1850,
+        "year": 80,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1850,
+        "year": 85,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1850,
+        "year": 85,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1850,
+        "year": 90,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1850,
+        "year": 90,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1860,
+        "year": 0,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1860,
+        "year": 0,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1860,
+        "year": 5,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1860,
+        "year": 5,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1860,
+        "year": 10,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1860,
+        "year": 10,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1860,
+        "year": 15,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1860,
+        "year": 15,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1860,
+        "year": 20,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1860,
+        "year": 20,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1860,
+        "year": 25,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1860,
+        "year": 25,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1860,
+        "year": 30,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1860,
+        "year": 30,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1860,
+        "year": 35,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1860,
+        "year": 35,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1860,
+        "year": 40,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1860,
+        "year": 40,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1860,
+        "year": 45,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1860,
+        "year": 45,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1860,
+        "year": 50,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1860,
+        "year": 50,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1860,
+        "year": 55,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1860,
+        "year": 55,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1860,
+        "year": 60,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1860,
+        "year": 60,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1860,
+        "year": 65,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1860,
+        "year": 65,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1860,
+        "year": 70,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1860,
+        "year": 70,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1860,
+        "year": 75,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1860,
+        "year": 75,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1860,
+        "year": 80,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1860,
+        "year": 80,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1860,
+        "year": 85,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1860,
+        "year": 85,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1860,
+        "year": 90,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1860,
+        "year": 90,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1870,
+        "year": 0,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1870,
+        "year": 0,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1870,
+        "year": 5,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1870,
+        "year": 5,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1870,
+        "year": 10,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1870,
+        "year": 10,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1870,
+        "year": 15,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1870,
+        "year": 15,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1870,
+        "year": 20,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1870,
+        "year": 20,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1870,
+        "year": 25,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1870,
+        "year": 25,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1870,
+        "year": 30,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1870,
+        "year": 30,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1870,
+        "year": 35,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1870,
+        "year": 35,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1870,
+        "year": 40,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1870,
+        "year": 40,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1870,
+        "year": 45,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1870,
+        "year": 45,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1870,
+        "year": 50,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1870,
+        "year": 50,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1870,
+        "year": 55,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1870,
+        "year": 55,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1870,
+        "year": 60,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1870,
+        "year": 60,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1870,
+        "year": 65,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1870,
+        "year": 65,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1870,
+        "year": 70,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1870,
+        "year": 70,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1870,
+        "year": 75,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1870,
+        "year": 75,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1870,
+        "year": 80,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1870,
+        "year": 80,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1870,
+        "year": 85,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1870,
+        "year": 85,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1870,
+        "year": 90,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1870,
+        "year": 90,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1880,
+        "year": 0,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1880,
+        "year": 0,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1880,
+        "year": 5,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1880,
+        "year": 5,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1880,
+        "year": 10,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1880,
+        "year": 10,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1880,
+        "year": 15,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1880,
+        "year": 15,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1880,
+        "year": 20,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1880,
+        "year": 20,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1880,
+        "year": 25,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1880,
+        "year": 25,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1880,
+        "year": 30,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1880,
+        "year": 30,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1880,
+        "year": 35,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1880,
+        "year": 35,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1880,
+        "year": 40,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1880,
+        "year": 40,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1880,
+        "year": 45,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1880,
+        "year": 45,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1880,
+        "year": 50,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1880,
+        "year": 50,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1880,
+        "year": 55,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1880,
+        "year": 55,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1880,
+        "year": 60,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1880,
+        "year": 60,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1880,
+        "year": 65,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1880,
+        "year": 65,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1880,
+        "year": 70,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1880,
+        "year": 70,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1880,
+        "year": 75,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1880,
+        "year": 75,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1880,
+        "year": 80,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1880,
+        "year": 80,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1880,
+        "year": 85,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1880,
+        "year": 85,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1880,
+        "year": 90,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1880,
+        "year": 90,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1900,
+        "year": 0,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1900,
+        "year": 0,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1900,
+        "year": 5,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1900,
+        "year": 5,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1900,
+        "year": 10,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1900,
+        "year": 10,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1900,
+        "year": 15,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1900,
+        "year": 15,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1900,
+        "year": 20,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1900,
+        "year": 20,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1900,
+        "year": 25,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1900,
+        "year": 25,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1900,
+        "year": 30,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1900,
+        "year": 30,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1900,
+        "year": 35,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1900,
+        "year": 35,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1900,
+        "year": 40,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1900,
+        "year": 40,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1900,
+        "year": 45,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1900,
+        "year": 45,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1900,
+        "year": 50,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1900,
+        "year": 50,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1900,
+        "year": 55,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1900,
+        "year": 55,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1900,
+        "year": 60,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1900,
+        "year": 60,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1900,
+        "year": 65,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1900,
+        "year": 65,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1900,
+        "year": 70,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1900,
+        "year": 70,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1900,
+        "year": 75,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1900,
+        "year": 75,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1900,
+        "year": 80,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1900,
+        "year": 80,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1900,
+        "year": 85,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1900,
+        "year": 85,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1900,
+        "year": 90,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1900,
+        "year": 90,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1910,
+        "year": 0,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1910,
+        "year": 0,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1910,
+        "year": 5,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1910,
+        "year": 5,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1910,
+        "year": 10,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1910,
+        "year": 10,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1910,
+        "year": 15,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1910,
+        "year": 15,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1910,
+        "year": 20,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1910,
+        "year": 20,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1910,
+        "year": 25,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1910,
+        "year": 25,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1910,
+        "year": 30,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1910,
+        "year": 30,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1910,
+        "year": 35,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1910,
+        "year": 35,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1910,
+        "year": 40,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1910,
+        "year": 40,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1910,
+        "year": 45,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1910,
+        "year": 45,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1910,
+        "year": 50,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1910,
+        "year": 50,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1910,
+        "year": 55,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1910,
+        "year": 55,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1910,
+        "year": 60,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1910,
+        "year": 60,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1910,
+        "year": 65,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1910,
+        "year": 65,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1910,
+        "year": 70,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1910,
+        "year": 70,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1910,
+        "year": 75,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1910,
+        "year": 75,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1910,
+        "year": 80,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1910,
+        "year": 80,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1910,
+        "year": 85,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1910,
+        "year": 85,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1910,
+        "year": 90,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1910,
+        "year": 90,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1920,
+        "year": 0,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1920,
+        "year": 0,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1920,
+        "year": 5,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1920,
+        "year": 5,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1920,
+        "year": 10,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1920,
+        "year": 10,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1920,
+        "year": 15,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1920,
+        "year": 15,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1920,
+        "year": 20,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1920,
+        "year": 20,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1920,
+        "year": 25,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1920,
+        "year": 25,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1920,
+        "year": 30,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1920,
+        "year": 30,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1920,
+        "year": 35,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1920,
+        "year": 35,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1920,
+        "year": 40,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1920,
+        "year": 40,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1920,
+        "year": 45,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1920,
+        "year": 45,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1920,
+        "year": 50,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1920,
+        "year": 50,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1920,
+        "year": 55,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1920,
+        "year": 55,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1920,
+        "year": 60,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1920,
+        "year": 60,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1920,
+        "year": 65,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1920,
+        "year": 65,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1920,
+        "year": 70,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1920,
+        "year": 70,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1920,
+        "year": 75,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1920,
+        "year": 75,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1920,
+        "year": 80,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1920,
+        "year": 80,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1920,
+        "year": 85,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1920,
+        "year": 85,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1920,
+        "year": 90,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1920,
+        "year": 90,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1930,
+        "year": 0,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1930,
+        "year": 0,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1930,
+        "year": 5,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1930,
+        "year": 5,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1930,
+        "year": 10,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1930,
+        "year": 10,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1930,
+        "year": 15,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1930,
+        "year": 15,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1930,
+        "year": 20,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1930,
+        "year": 20,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1930,
+        "year": 25,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1930,
+        "year": 25,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1930,
+        "year": 30,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1930,
+        "year": 30,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1930,
+        "year": 35,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1930,
+        "year": 35,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1930,
+        "year": 40,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1930,
+        "year": 40,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1930,
+        "year": 45,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1930,
+        "year": 45,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1930,
+        "year": 50,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1930,
+        "year": 50,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1930,
+        "year": 55,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1930,
+        "year": 55,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1930,
+        "year": 60,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1930,
+        "year": 60,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1930,
+        "year": 65,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1930,
+        "year": 65,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1930,
+        "year": 70,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1930,
+        "year": 70,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1930,
+        "year": 75,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1930,
+        "year": 75,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1930,
+        "year": 80,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1930,
+        "year": 80,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1930,
+        "year": 85,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1930,
+        "year": 85,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1930,
+        "year": 90,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1930,
+        "year": 90,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1940,
+        "year": 0,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1940,
+        "year": 0,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1940,
+        "year": 5,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1940,
+        "year": 5,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1940,
+        "year": 10,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1940,
+        "year": 10,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1940,
+        "year": 15,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1940,
+        "year": 15,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1940,
+        "year": 20,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1940,
+        "year": 20,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1940,
+        "year": 25,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1940,
+        "year": 25,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1940,
+        "year": 30,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1940,
+        "year": 30,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1940,
+        "year": 35,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1940,
+        "year": 35,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1940,
+        "year": 40,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1940,
+        "year": 40,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1940,
+        "year": 45,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1940,
+        "year": 45,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1940,
+        "year": 50,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1940,
+        "year": 50,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1940,
+        "year": 55,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1940,
+        "year": 55,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1940,
+        "year": 60,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1940,
+        "year": 60,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1940,
+        "year": 65,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1940,
+        "year": 65,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1940,
+        "year": 70,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1940,
+        "year": 70,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1940,
+        "year": 75,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1940,
+        "year": 75,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1940,
+        "year": 80,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1940,
+        "year": 80,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1940,
+        "year": 85,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1940,
+        "year": 85,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1940,
+        "year": 90,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1940,
+        "year": 90,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1950,
+        "year": 0,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1950,
+        "year": 0,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1950,
+        "year": 5,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1950,
+        "year": 5,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1950,
+        "year": 10,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1950,
+        "year": 10,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1950,
+        "year": 15,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1950,
+        "year": 15,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1950,
+        "year": 20,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1950,
+        "year": 20,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1950,
+        "year": 25,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1950,
+        "year": 25,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1950,
+        "year": 30,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1950,
+        "year": 30,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1950,
+        "year": 35,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1950,
+        "year": 35,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1950,
+        "year": 40,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1950,
+        "year": 40,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1950,
+        "year": 45,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1950,
+        "year": 45,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1950,
+        "year": 50,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1950,
+        "year": 50,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1950,
+        "year": 55,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1950,
+        "year": 55,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1950,
+        "year": 60,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1950,
+        "year": 60,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1950,
+        "year": 65,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1950,
+        "year": 65,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1950,
+        "year": 70,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1950,
+        "year": 70,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1950,
+        "year": 75,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1950,
+        "year": 75,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1950,
+        "year": 80,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1950,
+        "year": 80,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1950,
+        "year": 85,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1950,
+        "year": 85,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1950,
+        "year": 90,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1950,
+        "year": 90,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1960,
+        "year": 0,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1960,
+        "year": 0,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1960,
+        "year": 5,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1960,
+        "year": 5,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1960,
+        "year": 10,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1960,
+        "year": 10,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1960,
+        "year": 15,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1960,
+        "year": 15,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1960,
+        "year": 20,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1960,
+        "year": 20,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1960,
+        "year": 25,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1960,
+        "year": 25,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1960,
+        "year": 30,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1960,
+        "year": 30,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1960,
+        "year": 35,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1960,
+        "year": 35,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1960,
+        "year": 40,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1960,
+        "year": 40,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1960,
+        "year": 45,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1960,
+        "year": 45,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1960,
+        "year": 50,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1960,
+        "year": 50,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1960,
+        "year": 55,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1960,
+        "year": 55,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1960,
+        "year": 60,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1960,
+        "year": 60,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1960,
+        "year": 65,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1960,
+        "year": 65,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1960,
+        "year": 70,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1960,
+        "year": 70,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1960,
+        "year": 75,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1960,
+        "year": 75,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1960,
+        "year": 80,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1960,
+        "year": 80,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1960,
+        "year": 85,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1960,
+        "year": 85,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1960,
+        "year": 90,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1960,
+        "year": 90,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1970,
+        "year": 0,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1970,
+        "year": 0,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1970,
+        "year": 5,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1970,
+        "year": 5,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1970,
+        "year": 10,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1970,
+        "year": 10,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1970,
+        "year": 15,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1970,
+        "year": 15,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1970,
+        "year": 20,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1970,
+        "year": 20,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1970,
+        "year": 25,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1970,
+        "year": 25,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1970,
+        "year": 30,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1970,
+        "year": 30,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1970,
+        "year": 35,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1970,
+        "year": 35,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1970,
+        "year": 40,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1970,
+        "year": 40,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1970,
+        "year": 45,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1970,
+        "year": 45,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1970,
+        "year": 50,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1970,
+        "year": 50,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1970,
+        "year": 55,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1970,
+        "year": 55,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1970,
+        "year": 60,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1970,
+        "year": 60,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1970,
+        "year": 65,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1970,
+        "year": 65,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1970,
+        "year": 70,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1970,
+        "year": 70,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1970,
+        "year": 75,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1970,
+        "year": 75,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1970,
+        "year": 80,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1970,
+        "year": 80,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1970,
+        "year": 85,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1970,
+        "year": 85,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1970,
+        "year": 90,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1970,
+        "year": 90,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1980,
+        "year": 0,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1980,
+        "year": 0,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1980,
+        "year": 5,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1980,
+        "year": 5,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1980,
+        "year": 10,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1980,
+        "year": 10,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1980,
+        "year": 15,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1980,
+        "year": 15,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1980,
+        "year": 20,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1980,
+        "year": 20,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1980,
+        "year": 25,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1980,
+        "year": 25,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1980,
+        "year": 30,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1980,
+        "year": 30,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1980,
+        "year": 35,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1980,
+        "year": 35,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1980,
+        "year": 40,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1980,
+        "year": 40,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1980,
+        "year": 45,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1980,
+        "year": 45,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1980,
+        "year": 50,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1980,
+        "year": 50,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1980,
+        "year": 55,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1980,
+        "year": 55,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1980,
+        "year": 60,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1980,
+        "year": 60,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1980,
+        "year": 65,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1980,
+        "year": 65,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1980,
+        "year": 70,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1980,
+        "year": 70,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1980,
+        "year": 75,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1980,
+        "year": 75,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1980,
+        "year": 80,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1980,
+        "year": 80,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1980,
+        "year": 85,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1980,
+        "year": 85,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1980,
+        "year": 90,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1980,
+        "year": 90,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1990,
+        "year": 0,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1990,
+        "year": 0,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1990,
+        "year": 5,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1990,
+        "year": 5,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1990,
+        "year": 10,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1990,
+        "year": 10,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1990,
+        "year": 15,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1990,
+        "year": 15,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1990,
+        "year": 20,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1990,
+        "year": 20,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1990,
+        "year": 25,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1990,
+        "year": 25,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1990,
+        "year": 30,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1990,
+        "year": 30,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1990,
+        "year": 35,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1990,
+        "year": 35,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1990,
+        "year": 40,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1990,
+        "year": 40,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1990,
+        "year": 45,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1990,
+        "year": 45,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1990,
+        "year": 50,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1990,
+        "year": 50,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1990,
+        "year": 55,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1990,
+        "year": 55,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1990,
+        "year": 60,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1990,
+        "year": 60,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1990,
+        "year": 65,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1990,
+        "year": 65,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1990,
+        "year": 70,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1990,
+        "year": 70,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1990,
+        "year": 75,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1990,
+        "year": 75,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1990,
+        "year": 80,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1990,
+        "year": 80,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1990,
+        "year": 85,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1990,
+        "year": 85,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 1990,
+        "year": 90,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 1990,
+        "year": 90,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 2000,
+        "year": 0,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 2000,
+        "year": 0,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 2000,
+        "year": 5,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 2000,
+        "year": 5,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 2000,
+        "year": 10,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 2000,
+        "year": 10,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 2000,
+        "year": 15,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 2000,
+        "year": 15,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 2000,
+        "year": 20,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 2000,
+        "year": 20,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 2000,
+        "year": 25,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 2000,
+        "year": 25,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 2000,
+        "year": 30,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 2000,
+        "year": 30,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 2000,
+        "year": 35,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 2000,
+        "year": 35,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 2000,
+        "year": 40,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 2000,
+        "year": 40,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 2000,
+        "year": 45,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 2000,
+        "year": 45,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 2000,
+        "year": 50,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 2000,
+        "year": 50,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 2000,
+        "year": 55,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 2000,
+        "year": 55,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 2000,
+        "year": 60,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 2000,
+        "year": 60,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 2000,
+        "year": 65,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 2000,
+        "year": 65,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 2000,
+        "year": 70,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 2000,
+        "year": 70,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 2000,
+        "year": 75,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 2000,
+        "year": 75,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 2000,
+        "year": 80,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 2000,
+        "year": 80,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 2000,
+        "year": 85,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 2000,
+        "year": 85,
+        "US_peak_chart_post": 2
+    },
+    {
+        "album": 2000,
+        "year": 90,
+        "US_peak_chart_post": 1
+    },
+    {
+        "album": 2000,
+        "year": 90,
+        "US_peak_chart_post": 2
+    }
+]
